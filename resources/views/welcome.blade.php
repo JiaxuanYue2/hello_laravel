@@ -35,7 +35,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">NIUBI_LUNARYUE</div>
+                <div class="title">NIUBI_LUNARYUE!!!</div>
             </div>
         </div>
     </body>
